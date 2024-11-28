@@ -4,81 +4,38 @@
          "name": "BepInEx",
          "tag": "",
          "gitPath": "BepInEx/BepInEx",
-         "releaseId": 1,
+         "releaseId": "5.4.23.2",
          "author": "BepInEx Team",
          "group": "Core"
       },
       {
-         "name": "Monke Map Loader",
+         "name": "Newtilla",
          "tag": "",
-         "gitPath": "Vadix88/MonkeMapLoader",
-         "releaseId": 0,
-         "author": "Vadix",
+         "gitPath": "Loafiat/Newtilla",
+         "releaseId": "1.1.0",
+         "author": "Loafiat",
+         "group": "Core"
+      },
+      {
+         "name": "CustomPlatformManager",
+         "tag": "",
+         "gitPath": "zaynethedev/CustomPlatformManager",
+         "releaseId": "1.1.0",
+         "author": "zaynethedev",
          "group": "Gameplay",
          "dependencies": [
-            "Newtonsoft.JSON",
-            "Utilla",
-            "Computer Interface"
+            "Newtilla"
          ]
       },
       {
-         "name": "Space Monke",
+         "name": "Banana-OS",
          "tag": "",
-         "gitPath": "legoandmars/SpaceMonke",
+         "gitPath": "HuskyGT/Banana-OS",
          "releaseId": 0,
-         "author": "Bobbie",
-         "group": "Gameplay",
-         "dependencies": [
-            "Utilla"
-         ]
-      },
-      {
-         "name": "Utilla",
-         "tag": "",
-         "gitPath": "legoandmars/Utilla",
-         "releaseId": 0,
-         "author": "Bobbie",
-         "group": "Libraries"
-      },
-      {
-         "name": "Computer Interface",
-         "tag": "",
-         "gitPath": "ToniMacaroni/ComputerInterface",
-         "releaseId": 0,
-         "author": "Toni Macaroni",
+         "author": "HuskyGT",
          "group": "Libraries",
          "dependencies": [
-            "Bepinject"
          ]
-      },
-      {
-         "name": "Bepinject",
-         "tag": "",
-         "gitPath": "Auros/Bepinject",
-         "releaseId": 0,
-         "author": "Auros",
-         "group": "Libraries",
-         "installPath": "BepInEx/plugins",
-         "dependencies": [
-            "Extenject"
-         ]
-      },
-      {
-         "name": "Extenject",
-         "tag": "",
-         "gitPath": "Auros/Bepinject",
-         "releaseId": 1,
-         "author": "svermeulen",
-         "group": "Libraries",
-         "installPath": "BepInEx/plugins"
-      },
-      {
-         "name": "Newtonsoft.JSON",
-         "tag": "",
-         "gitPath": "legoandmars/Newtonsoft.Json",
-         "releaseId": 0,
-         "author": "James Newton-King",
-         "group": "Libraries"
       }
    ],
    "groups": [
