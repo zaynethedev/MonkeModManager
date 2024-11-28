@@ -34,7 +34,7 @@
          "releaseId": "1.0.8",
          "author": "HuskyGT",
          "group": "Libraries",
-         "dependencies": ["CustomPlatformManager"]
+         "dependencies": ["CUSTOMPLATFORMMANAGER"]
       }
    ],
    "groups": [
