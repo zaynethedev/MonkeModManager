@@ -4,7 +4,7 @@
          "name": "BepInEx",
          "tag": "",
          "gitPath": "BepInEx/BepInEx",
-         "releaseId": "5.4.23.2",
+         "releaseId": "54232",
          "author": "BepInEx Team",
          "group": "Core",
          "dependencies": []
@@ -13,7 +13,7 @@
          "name": "Newtilla",
          "tag": "",
          "gitPath": "Loafiat/Newtilla",
-         "releaseId": "1.1.0",
+         "releaseId": "110",
          "author": "Loafiat",
          "group": "Core",
          "dependencies": []
@@ -22,7 +22,7 @@
          "name": "CustomPlatformManager",
          "tag": "",
          "gitPath": "zaynethedev/CustomPlatformManager",
-         "releaseId": "1.1.0",
+         "releaseId": "110",
          "author": "zaynethedev",
          "group": "Gameplay",
          "dependencies": ["Newtilla"]
