@@ -7,6 +7,8 @@
          "releaseId": "5.4.23.2",
          "author": "BepInEx Team",
          "group": "Core"
+         "dependencies": [
+         ]
       },
       {
          "name": "Newtilla",
@@ -15,6 +17,8 @@
          "releaseId": "1.1.0",
          "author": "Loafiat",
          "group": "Core"
+         "dependencies": [
+         ]
       },
       {
          "name": "CustomPlatformManager",
