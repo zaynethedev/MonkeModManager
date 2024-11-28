@@ -6,9 +6,8 @@
          "gitPath": "BepInEx/BepInEx",
          "releaseId": "5.4.23.2",
          "author": "BepInEx Team",
-         "group": "Core"
-         "dependencies": [
-         ]
+         "group": "Core",
+         "dependencies": []
       },
       {
          "name": "Newtilla",
@@ -16,9 +15,8 @@
          "gitPath": "Loafiat/Newtilla",
          "releaseId": "1.1.0",
          "author": "Loafiat",
-         "group": "Core"
-         "dependencies": [
-         ]
+         "group": "Core",
+         "dependencies": []
       },
       {
          "name": "CustomPlatformManager",
@@ -27,19 +25,16 @@
          "releaseId": "1.1.0",
          "author": "zaynethedev",
          "group": "Gameplay",
-         "dependencies": [
-            "Newtilla"
-         ]
+         "dependencies": ["Newtilla"]
       },
       {
          "name": "Banana-OS",
          "tag": "",
          "gitPath": "HuskyGT/Banana-OS",
-         "releaseId": 0,
+         "releaseId": "0",
          "author": "HuskyGT",
          "group": "Libraries",
-         "dependencies": [
-         ]
+         "dependencies": []
       }
    ],
    "groups": [
