@@ -19,6 +19,15 @@
          "dependencies": []
       },
       {
+         "name": "Utilla [OUTDATED]",
+         "tag": "",
+         "gitPath": "Loafiat/Newtilla",
+         "releaseId": "1.1.0",
+         "author": "Loafiat",
+         "group": "Libraries",
+         "dependencies": []
+      },
+      {
          "name": "CustomPlatformManager",
          "tag": "",
          "gitPath": "zaynethedev/CustomPlatformManager",
