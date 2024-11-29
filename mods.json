@@ -19,11 +19,11 @@
          "dependencies": []
       },
       {
-         "name": "Utilla [OUTDATED]",
+         "name": "Utilla (OUTDATED)",
          "tag": "",
-         "gitPath": "Loafiat/Newtilla",
-         "releaseId": "1.1.0",
-         "author": "Loafiat",
+         "gitPath": "legoandmars/Utilla",
+         "releaseId": "1.6.14",
+         "author": "legoandmars",
          "group": "Libraries",
          "dependencies": []
       },
