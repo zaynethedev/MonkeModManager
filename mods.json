@@ -37,6 +37,15 @@
          "dependencies": ["Newtilla"]
       },
       {
+         "name": "SophisticatedStreamCam",
+         "tag": "",
+         "gitPath": "NgbatzYT/SophisticatedStreamCam",
+         "releaseId": "1.0.0",
+         "author": "Ngbatz",
+         "group": "Gameplay",
+         "dependencies": []
+      },
+      {
          "name": "Banana-OS",
          "tag": "",
          "gitPath": "HuskyGT/Banana-OS",
