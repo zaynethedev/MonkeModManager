@@ -7,7 +7,8 @@
          "releaseId": "5.4.23.2",
          "author": "BepInEx Team",
          "group": "Core",
-         "dependencies": []
+         "dependencies": [],
+         "fileName": "BepInEx_win_x64_5.4.23.2.zip"
       },
       {
          "name": "Newtilla",
@@ -16,7 +17,8 @@
          "releaseId": "1.1.0",
          "author": "Loafiat",
          "group": "Core",
-         "dependencies": []
+         "dependencies": [],
+         "fileName": "Newtilla.dll"
       },
       {
          "name": "Utilla (OUTDATED)",
@@ -25,7 +27,8 @@
          "releaseId": "1.6.14",
          "author": "legoandmars",
          "group": "Libraries",
-         "dependencies": []
+         "dependencies": [],
+         "fileName": "Utilla.zip"
       },
       {
          "name": "CustomPlatformManager",
@@ -34,7 +37,8 @@
          "releaseId": "1.1.0",
          "author": "zaynethedev",
          "group": "Gameplay",
-         "dependencies": ["Newtilla"]
+         "dependencies": ["Newtilla"],
+         "fileName": "CustomPlatformManager.dll"
       },
       {
          "name": "SophisticatedStreamCam",
@@ -43,7 +47,8 @@
          "releaseId": "1.0.0",
          "author": "Ngbatz",
          "group": "Gameplay",
-         "dependencies": []
+         "dependencies": [],
+         "fileName": "SophisticatedStreamCam.zip"
       },
       {
          "name": "Banana-OS",
@@ -52,7 +57,8 @@
          "releaseId": "1.0.8",
          "author": "HuskyGT",
          "group": "Libraries",
-         "dependencies": []
+         "dependencies": [],
+         "fileName": "BananaOS.dll"
       }
    ],
    "groups": [
